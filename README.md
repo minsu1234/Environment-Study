@@ -1,2 +1,2 @@
-# my-environment-study
+# Environment Study
 about Environment
